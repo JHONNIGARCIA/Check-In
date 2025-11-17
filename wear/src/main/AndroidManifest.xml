@@ -1,0 +1,30 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-feature android:name="android.hardware.type.watch" android:required="true" />
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:label="AppWear"
+        android:allowBackup="true">
+
+        <activity
+            android:name="com.example.sh.MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <service
+            android:name="com.example.sh.AckListenerService"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.google.android.gms.wearable.MESSAGE_RECEIVED" />
+                <data android:scheme="wear" android:host="*" android:pathPrefix="/"/>
+            </intent-filter>
+        </service>
+
+    </application>
+</manifest>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.sh.app-debug-35:/layout_item_checkin.xml.flat",
+        "source": "com.example.sh.app-main-37:/layout/item_checkin.xml"
+    },
+    {
+        "merged": "com.example.sh.app-debug-35:/layout_activity_main.xml.flat",
+        "source": "com.example.sh.app-main-37:/layout/activity_main.xml"
+    }
+]

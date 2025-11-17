@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.example.sh.wear-merged_res-46:/drawable_ic_watch.xml.flat",
+        "source": "com.example.sh.wear-main-48:/drawable/ic_watch.xml"
+    }
+]
