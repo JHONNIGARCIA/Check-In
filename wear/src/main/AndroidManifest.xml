@@ -6,6 +6,7 @@
 
     <application
         android:label="AppWear"
+        android:icon="@mipmap/ic_launcher"
         android:allowBackup="true">
 
         <activity
