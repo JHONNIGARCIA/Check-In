@@ -5,10 +5,14 @@ color colorAccent
 color colorPrimary
 color colorPrimaryDark
 color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
 id recyclerView
 id source
 id timestamp
 layout activity_main
 layout item_checkin
+mipmap ic_launcher
+mipmap ic_launcher_round
 string app_name
 style Theme.CheckIn

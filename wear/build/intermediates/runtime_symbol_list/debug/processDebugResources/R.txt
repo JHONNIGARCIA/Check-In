@@ -100,6 +100,8 @@ int drawable ic_call_answer_video 0x7f040019
 int drawable ic_call_answer_video_low 0x7f04001a
 int drawable ic_call_decline 0x7f04001b
 int drawable ic_call_decline_low 0x7f04001c
+int drawable ic_launcher_background 0x7f04002d
+int drawable ic_launcher_foreground 0x7f04002e
 int drawable ic_watch 0x7f04001d
 int drawable notification_action_background 0x7f04001e
 int drawable notification_bg 0x7f04001f
@@ -238,6 +240,8 @@ int layout notification_template_custom_big 0x7f070005
 int layout notification_template_icon_group 0x7f070006
 int layout notification_template_part_chronometer 0x7f070007
 int layout notification_template_part_time 0x7f070008
+int mipmap ic_launcher 0x7f0b0000
+int mipmap ic_launcher_round 0x7f0b0001
 int string androidx_startup 0x7f080000
 int string call_notification_answer_action 0x7f080001
 int string call_notification_answer_video_action 0x7f080002

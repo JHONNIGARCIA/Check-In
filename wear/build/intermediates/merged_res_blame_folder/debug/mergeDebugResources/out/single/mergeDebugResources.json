@@ -1,6 +1,22 @@
 [
     {
-        "merged": "com.example.sh.wear-debug-46:/drawable_ic_watch.xml.flat",
-        "source": "com.example.sh.wear-main-48:/drawable/ic_watch.xml"
+        "merged": "C:\\Users\\jhonn\\.gradle\\daemon\\8.13\\com.example.sh.wear-debug-46:\\drawable_ic_watch.xml.flat",
+        "source": "C:\\Users\\jhonn\\.gradle\\daemon\\8.13\\com.example.sh.wear-main-48:\\drawable\\ic_watch.xml"
+    },
+    {
+        "merged": "com.example.sh.wear-debug-46:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.sh.wear-main-48:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.sh.wear-debug-46:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.sh.wear-main-48:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.sh.wear-debug-46:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.sh.wear-main-48:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.sh.wear-debug-46:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.sh.wear-main-48:/drawable/ic_launcher_background.xml"
     }
 ]
